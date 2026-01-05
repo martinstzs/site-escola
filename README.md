@@ -3,7 +3,7 @@
 Projeto desenvolvido em grupo para a criação de um site institucional da escola.
 
 ## 🌐 Acesse o site
-👉 https://SEU-USUARIO.github.io/Site-Escola/
+👉 https://terceirodev.github.io/mudan-a-site/index.html
 
 ## 🎯 Objetivo do projeto
 Criar um site informativo para apresentar a escola, seus cursos, atividades e formas de contato.
