@@ -1,36 +1,46 @@
-# 🏫 Site Institucional CICALT
+<div align="center">
+  <h1>🏫 Site Institucional CICALT</h1>
+  <p><i>Unindo usabilidade, design moderno e acessibilidade para a comunidade escolar.</i></p>
 
-![Preview do Site CICALT](./imagem_2026-06-24_113823763.jpg)
+  <img src="./imagem_2026-06-24_113823763.jpg" alt="Preview do Site CICALT" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 
-Unindo organização de informações, usabilidade e uma boa experiência do usuário, este site institucional foi desenvolvido em grupo para apresentar a escola, seus cursos, atividades, eventos e canais de contato.
+  <br><br>
 
----
-
-## 🎯 Objetivo
-Criar uma plataforma web informativa e acessível para a comunidade escolar, garantindo que as informações institucionais sejam encontradas de forma rápida e intuitiva.
-
-## 🌐 Link do Projeto
-🚀 [Clique aqui para acessar o site em produção](https://terceirodev.github.io/mudan-a-site/index.html)
+  [![Website](https://img.shields.io/badge/Acessar_o_Site-Acesse_Aqui-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://terceirodev.github.io/mudan-a-site/index.html)
+  ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-success?style=for-the-badge)
+</div>
 
 ---
 
-## 💻 Tecnologias e Ferramentas Utilizadas
-
-* **Linguagens:** HTML5, CSS3, JavaScript
-* **Controle de Versão:** Git & GitHub
-* **Editor de Código:** Visual Studio Code
+### 🎯 O Projeto
+> Este site institucional foi desenvolvido em grupo com o objetivo de centralizar e apresentar as informações da escola, seus cursos, atividades, eventos e canais de contato de forma rápida, intuitiva e totalmente responsiva.
 
 ---
 
-## 👩‍💻 Minhas Contribuições no Projeto
+### 💻 Stack Tecnológica
 
-No desenvolvimento em equipe, atuei diretamente na construção do front-end e na organização do código, sendo responsável por:
-* **Estruturação Semântica:** Uso correto das tags HTML5 para SEO e acessibilidade.
-* **Estilização e Design:** Criação da identidade visual e layout com CSS3.
-* **Responsividade:** Adaptação da interface para o funcionamento ideal em celulares, tablets e computadores.
-* **Versionamento e Integração:** Uso do Git para controle de ramificações (branches) e resolução de conflitos de código com a equipe.
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
 
 ---
 
-## 📌 Status do Projeto
-Concluído ✅
+### 👩‍💻 Minhas Contribuições
+
+Como integrante do time de front-end, minhas principais responsabilidades e entregas no projeto foram:
+
+* **🏗️ Estruturação Semântica:** Implementação de tags HTML5 estruturadas focando em SEO e acessibilidade.
+* **🎨 Estilização & UI:** Desenvolvimento da identidade visual do layout utilizando CSS3 puro.
+* **📱 Responsividade:** Criação de media queries para adaptação perfeita em dispositivos móveis, tablets e desktops.
+* **🔀 Versionamento:** Gestão de branches, commits organizados e resolução de conflitos via Git no fluxo de trabalho do grupo.
+
+---
+
+<div align="center">
+  <p>Desenvolvido com 💙 por Aline Martins</p>
+</div>
